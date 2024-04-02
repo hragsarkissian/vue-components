@@ -1,5 +1,5 @@
 # vue-components
-The "List of Vue Dynamic Components Showcase" project aims to demonstrate expertise in Vue.js by presenting a curated collection of Vue components in a code showcase format. 
+The "Vue Components" project aims to demonstrate expertise in Vue.js by presenting a curated collection of Vue components in a code showcase format. 
 This showcase provides an opportunity to explore the implementation details of various Vue components,functionality, and usage.
 
 #Styling
