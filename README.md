@@ -11,3 +11,6 @@ Element (bem.element('elementName')): Nested elements within the main block. Ele
 Modifier (bem.modifier and bem.element('elementName').modifier): Variations or states of blocks or elements. Modifiers alter the appearance or behavior of blocks or elements without changing their core functionality. In this template, modifiers are applied conditionally through JavaScript logic or Vue component props. For example, the fade-slide modifier is used to specify the transition effect for the component.
 
 #Script - Typscript
+
+The Vue components above are implemented using TypeScript, leveraging its powerful type system to enhance code clarity, maintainability, and type safety. 
+Each component defines its props with explicit types, ensuring that data passed into the component adheres to expected formats. 
